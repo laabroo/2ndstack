@@ -2,10 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="span9">
-                <h1>
-                    Web application programming platform.
+                <h1 id="banner">
+                    Web,Desktop,Mobile Application
                     <br/>
-                    Event-driven, truly non-blocking, open source.
+                    U can do It!
                 </h1>
             </div>
             <div class="span3">

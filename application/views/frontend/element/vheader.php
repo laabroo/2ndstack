@@ -26,7 +26,7 @@
                             </a>
 
                             <!-- Be sure to leave the brand out there if you want it shown -->
-                            <a class="brand" href="#">
+                            <a class="brand" href="<?php echo base_url(); ?>index.php/cmain">
                                 2ndStack<i class="icon-fire icon-white"></i>
 <!--                                <img id="logo" src="--><?php //echo base_url(); ?><!--resource/img/logo.png"/>-->
                             </a>
@@ -38,25 +38,25 @@
 
 
                                     <li>
-                                        <a href="<?php echo base_url(); ?>index.php/pages/cabout" target="_top">About</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=abo" target="_top">About</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_blank">Documentation</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=doc" target="_blank">Documentation</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_blank">Forum</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=for" target="_blank">Forum</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_top">Download</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=dow" target="_top">Download</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_top">Apps</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=app" target="_top">Apps</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_top">News</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=new" target="_top">News</a>
                                     </li>
                                     <li>
-                                        <a href="" target="_top">Blog</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/csubmain?pages=blo" target="_top">Blog</a>
                                     </li>
                                 </ul>
 

@@ -1,6 +1,6 @@
 <script type="text/javascript">
     $(document).ready(function(){
-        $('#banner').html('<h2>About</h2>');
+        $('#banner').html('<h2>News</h2>');
     });
 </script>
 <div class="container content">

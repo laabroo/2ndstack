@@ -23,7 +23,7 @@
     padding-top:0;
 }
 
-.hero-unit h1
+.hero-unit h1#banner
 {
     color: #ffffff;
     font-size: 30px;
