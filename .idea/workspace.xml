@@ -22,55 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="vcontent.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vcontent.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="62" selection-start="991" selection-end="991" vertical-scroll-proportion="-10.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vlist.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/listContent/vlist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="112" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.765625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="vfooter.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="26" selection-start="4350" selection-end="4350" vertical-scroll-proportion="-70.625">
+            <state line="109" column="31" selection-start="4186" selection-end="4186" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/css/content.css">
+      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="18" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+            <state line="7" column="1" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vslide.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/slide/vslide.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="107" selection-start="157" selection-end="228" vertical-scroll-proportion="0.0">
+            <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.38181818">
               <folding />
             </state>
           </provider>
@@ -101,12 +74,12 @@
         <option value="$PROJECT_DIR$/resource/css/heroUnit.css" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
         <option value="$PROJECT_DIR$/resource/css/style.css" />
-        <option value="$PROJECT_DIR$/application/views/frontend/element/vfooter.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/slide/vslide.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vcontent.php" />
-        <option value="$PROJECT_DIR$/resource/css/footer.css" />
         <option value="$PROJECT_DIR$/resource/css/content.css" />
         <option value="$PROJECT_DIR$/application/views/frontend/listContent/vlist.php" />
+        <option value="$PROJECT_DIR$/application/views/frontend/element/vfooter.php" />
+        <option value="$PROJECT_DIR$/resource/css/footer.css" />
       </list>
     </option>
   </component>
@@ -514,13 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/heroUnit.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="14" selection-start="714" selection-end="714" vertical-scroll-proportion="0.6454545">
@@ -563,23 +529,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="26" selection-start="4350" selection-end="4350" vertical-scroll-proportion="-70.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/frontend/slide/vslide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="107" selection-start="157" selection-end="228" vertical-scroll-proportion="0.0">
+        <state line="3" column="107" selection-start="157" selection-end="228" vertical-scroll-proportion="0.083798885">
           <folding />
         </state>
       </provider>
@@ -593,7 +545,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/frontend/listContent/vlist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="112" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.765625">
+        <state line="41" column="112" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-15.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="31" selection-start="4186" selection-end="4186" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.38181818">
           <folding />
         </state>
       </provider>

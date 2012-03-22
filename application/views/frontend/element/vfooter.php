@@ -106,8 +106,8 @@
         </div>
     </div>
 
-    <div class="footer">
-        <div class="fill">
+
+        <div class="fill-footer">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset4">
@@ -120,7 +120,7 @@
                 </div>
             </div>
         </div>
-    </div>
+
 
 </div>
 
