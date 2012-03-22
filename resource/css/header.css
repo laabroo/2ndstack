@@ -1,4 +1,50 @@
-.header
-{
-    border: 1px solid #000000;
+.fill {
+    -webkit-box-shadow:rgba(0, 0, 0, 0.246094) 0 1px 3px, rgba(0, 0, 0, 0.0976563) 0 -1px 0 inset;
+    background-color:#222222;
+    background-image:-webkit-linear-gradient(top, #333333, #222222);
+    background-repeat:repeat no-repeat;
+    box-shadow:rgba(0, 0, 0, 0.246094) 0 1px 3px, rgba(0, 0, 0, 0.0976563) 0 -1px 0 inset;
 }
+
+.topbar {
+    height:40px;
+    left:0;
+    overflow-x:visible;
+    overflow-y:visible;
+    position:fixed;
+    right:0;
+    top:0;
+    z-index:10000;
+}
+
+
+.hero-unit {
+    background-attachment:initial;
+    background-clip:initial;
+    background-color:#151515;
+    background-image:url('../img/bgHeroUnit.png');
+    background-origin:initial;
+    background-position:0 0;
+    background-repeat:repeat no-repeat;
+    border-bottom-color:white;
+    border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+    margin-bottom:0;
+    margin-left:0;
+    margin-right:0;
+    margin-top:56px;
+    padding-bottom:0;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+}
+
+#logo
+{
+    float: left;
+}
+

@@ -13,50 +13,57 @@
 
     <div>
 
-        <div class="navbar">
-            <div class="navbar-inner">
-                <div class="container">
 
-                    <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </a>
+        <div class="topbar">
+            <div class="fill navbar-inner">
 
-                    <!-- Be sure to leave the brand out there if you want it shown -->
-                    <a class="brand" href="#"></a>
+                        <div class="container navbar navbar-inner ">
+                            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </a>
 
-                    <!-- Everything you want hidden at 940px or less, place within here -->
-                    <div class="nav-collapse">
+                            <!-- Be sure to leave the brand out there if you want it shown -->
+                            <a class="brand" href="#">
+<!--                                <img id="logo" src="--><?php //echo base_url(); ?><!--resource/img/logo.png"/>-->
+                            </a>
 
-                        <ul class="nav list-header">
-                            <li class="current">
-                                <a class="" href="" target="_top">About</a>
-                            </li>
-                            <li>
-                                <a href="" target="_blank">Documentation</a>
-                            </li>
-                            <li>
-                                <a href="" target="_blank">Forum</a>
-                            </li>
-                            <li>
-                                <a href="" target="_top">Download</a>
-                            </li>
-                            <li>
-                                <a href="" target="_top">Apps</a>
-                            </li>
-                            <li>
-                                <a href="" target="_top">News</a>
-                            </li>
-                            <li>
-                                <a href="" target="_top">Blog</a>
-                            </li>
-                        </ul>
+                            <!-- Everything you want hidden at 940px or less, place within here -->
+                            <div class="nav-collapse">
 
+                                <ul class="nav list-header pull-right">
+
+
+                                    <li>
+                                        <a href="" target="_top">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank">Documentation</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank">Forum</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_top">Download</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_top">Apps</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_top">News</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_top">Blog</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+
+                        </div>
                     </div>
-
                 </div>
-            </div>
-        </div>
+
+
 

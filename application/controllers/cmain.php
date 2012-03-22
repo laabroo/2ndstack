@@ -7,6 +7,7 @@ class Cmain extends CI_Controller{
     function index(){
         $data['title']="Home Page";
         $this->load->view('frontend/element/vheader',$data);
+        $this->load->view('frontend/element/vheroUnit');
         $this->load->view('frontend/element/vcontent');
         $this->load->view('frontend/element/vfooter');
     }
