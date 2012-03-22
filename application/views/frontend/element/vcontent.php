@@ -1,14 +1,8 @@
 <div class="container content">
     <div class="row">
-        <div class="span-two-thirds">
-            <ul class="me">
-                <li>
-                    <a href="http://doc.opalang.org/manual/A-tour-of-Opa">
-                        <img src="/img/opas4-banner.jpg" alt="Opa 0.9"/>
-                    </a>
-                </li>
-            </ul>
-        </div>
+
+        <?php $this->load->view('frontend/slide/vslide'); ?>
+
         <div class="span-one-third">
             <h5>JS-like syntax</h5>
             <p>Opa new default syntax is more similar to JavaScript and other C-like languages, which increases readability and familiarity of the source code. The previous syntax is still available, per community request.</p>
