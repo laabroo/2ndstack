@@ -25,7 +25,7 @@
       <file leaf-file-name="vfooter.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="31" selection-start="4186" selection-end="4186" vertical-scroll-proportion="-4.375">
+            <state line="25" column="39" selection-start="983" selection-end="991" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
@@ -43,7 +43,16 @@
       <file leaf-file-name="footer.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.38181818">
+            <state line="61" column="17" selection-start="834" selection-end="834" vertical-scroll-proportion="0.91818184">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vheader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="70" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.20833333">
               <folding />
             </state>
           </provider>
@@ -72,12 +81,12 @@
         <option value="$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php" />
         <option value="$PROJECT_DIR$/resource/css/header.css" />
         <option value="$PROJECT_DIR$/resource/css/heroUnit.css" />
-        <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
         <option value="$PROJECT_DIR$/resource/css/style.css" />
         <option value="$PROJECT_DIR$/application/views/frontend/slide/vslide.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vcontent.php" />
         <option value="$PROJECT_DIR$/resource/css/content.css" />
         <option value="$PROJECT_DIR$/application/views/frontend/listContent/vlist.php" />
+        <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vfooter.php" />
         <option value="$PROJECT_DIR$/resource/css/footer.css" />
       </list>
@@ -224,6 +233,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -333,6 +364,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/img/contact" />
       <recent name="$PROJECT_DIR$/resource/img/slide" />
       <recent name="$PROJECT_DIR$/application/views" />
     </key>
@@ -461,25 +493,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="226" column="47" selection-start="7584" selection-end="7584" vertical-scroll-proportion="0.5416667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="37" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="53" selection-start="279" selection-end="279" vertical-scroll-proportion="0.24545455">
@@ -490,13 +503,6 @@
     <entry file="file://$PROJECT_DIR$/resource/css/heroUnit.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="14" selection-start="714" selection-end="714" vertical-scroll-proportion="0.6454545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="40" selection-start="1319" selection-end="1319" vertical-scroll-proportion="-8.75">
           <folding />
         </state>
       </provider>
@@ -550,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="31" selection-start="4186" selection-end="4186" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="1" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
@@ -564,9 +563,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/img/contact/t.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/img/contact/g.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/img/contact/f.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="70" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.20833333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="39" selection-start="983" selection-end="991" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.38181818">
+        <state line="61" column="17" selection-start="834" selection-end="834" vertical-scroll-proportion="0.91818184">
           <folding />
         </state>
       </provider>

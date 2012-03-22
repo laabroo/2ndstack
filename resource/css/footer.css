@@ -23,6 +23,7 @@
 .footer a
 {
     color: gray;
+    text-decoration: none
 }
 
 .footer p
@@ -36,3 +37,27 @@
     min-height: 150px
 }
 
+.img-contact
+{
+    opacity: 0.4;
+    height: 30px;
+    width: 30px;
+}
+
+.img-contact:hover
+{
+    opacity: 1;
+    height: 30px;
+    width: 30px;
+}
+
+.unstyled a
+{
+    text-decoration: none
+}
+
+.unstyled a:hover
+{
+    text-decoration: none;
+    color: white;
+}

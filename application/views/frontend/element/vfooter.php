@@ -80,16 +80,16 @@
                     <ul class="unstyled">
                         <li>
                             <a href="http://twitter.com/opalang">
-                                <img src="/img/tw-icon.png" alt="twitter"/>
+                                <img class="img-contact" src="<?php echo base_url(); ?>resource/img/contact/f.png" alt="twitter"/>
                             </a>
                             <a href="http://www.facebook.com/Opalang">
-                                <img src="/img/fb-icon.png" alt="facebook"/>
+                                <img class="img-contact" src="<?php echo base_url(); ?>resource/img/contact/t.png" alt="facebook"/>
                             </a>
                             <a href="https://plus.google.com/106948838673607430453?prsrc=3">
-                                <img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+"/>
+                                <img class="img-contact" src="<?php echo base_url(); ?>resource/img/contact/g.png" alt="Google+"/>
                             </a>
                             <a href="http://www.linkedin.com/groups/Opalang-3917856?home=0&gid=3917856&trk=anet_ug_hm">
-                                <img src="/img/in-icon.png" alt="LinkedIn"/>
+                                <img class="img-contact" src="<?php echo base_url(); ?>resource/img/contact/b.png" alt="LinkedIn"/>
                             </a>
                         </li>
                     </ul>

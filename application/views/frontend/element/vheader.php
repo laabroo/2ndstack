@@ -27,7 +27,7 @@
 
                             <!-- Be sure to leave the brand out there if you want it shown -->
                             <a class="brand" href="#">
-                                2ndStack
+                                2ndStack<i class="icon-fire icon-white"></i>
 <!--                                <img id="logo" src="--><?php //echo base_url(); ?><!--resource/img/logo.png"/>-->
                             </a>
 
