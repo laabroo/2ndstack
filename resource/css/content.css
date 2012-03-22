@@ -1,4 +1,19 @@
+.span-one-third {
+    width:300px;
+}
+
+.span-two-thirds {
+    width:620px;
+}
+
+.media-grid {
+    margin-bottom:0;
+    margin-left:-20px;
+    zoom:1;
+}
 .content
 {
-    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    margin-top: -30px;
+    box-shadow: 0px 0px 0px black,3px 0px 5px grey,0px 0px 0px black,-3px 0px 5px grey
 }
