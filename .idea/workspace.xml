@@ -22,46 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cmain.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="53" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vheader.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="66" selection-start="697" selection-end="697" vertical-scroll-proportion="0.15454546">
-              <folding>
-                <marker date="1332434053000" expanded="true" signature="542:2938" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="1700:1749" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="1858:1907" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="2026:2075" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="2186:2235" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="2347:2396" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="2504:2553" placeholder="..." />
-                <marker date="1332434053000" expanded="true" signature="2661:2710" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/css/header.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vheroUnit.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="vheroUnit.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="19" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
+            <state line="11" column="88" selection-start="443" selection-end="443" vertical-scroll-proportion="0.3">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vheader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="16" selection-start="84" selection-end="84" vertical-scroll-proportion="3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heroUnit.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/css/heroUnit.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="21" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,15 +67,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jstyle.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/js/jstyle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -112,16 +85,17 @@
         <option value="$PROJECT_DIR$/application/config/autoload.php" />
         <option value="$PROJECT_DIR$/resource/css/footer.css" />
         <option value="$PROJECT_DIR$/resource/css/content.css" />
-        <option value="$PROJECT_DIR$/resource/css/style.css" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vcontent.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vfooter.php" />
         <option value="$PROJECT_DIR$/resource/js/jstyle.js" />
         <option value="$PROJECT_DIR$/application/controllers/cmain.php" />
-        <option value="$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php" />
-        <option value="$PROJECT_DIR$/resource/css/header.css" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
+        <option value="$PROJECT_DIR$/resource/css/style.css" />
+        <option value="$PROJECT_DIR$/resource/css/header.css" />
+        <option value="$PROJECT_DIR$/resource/css/heroUnit.css" />
+        <option value="$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php" />
       </list>
     </option>
   </component>
@@ -493,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vcontent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/js/jstyle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
@@ -514,52 +481,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="64" selection-end="64" vertical-scroll-proportion="0.056710776">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/img/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="279" selection-end="279" vertical-scroll-proportion="0.24545455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="21" selection-start="89" selection-end="89" vertical-scroll-proportion="0.10909091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vcontent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0">
+        <state line="5" column="108" selection-start="354" selection-end="354" vertical-scroll-proportion="0.13636364">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="66" selection-start="697" selection-end="697" vertical-scroll-proportion="0.15454546">
-          <folding>
-            <marker date="1332434053000" expanded="true" signature="542:2938" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="1700:1749" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="1858:1907" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="2026:2075" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="2186:2235" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="2347:2396" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="2504:2553" placeholder="..." />
-            <marker date="1332434053000" expanded="true" signature="2661:2710" placeholder="..." />
-          </folding>
+        <state line="4" column="16" selection-start="84" selection-end="84" vertical-scroll-proportion="3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/heroUnit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="21" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="88" selection-start="443" selection-end="443" vertical-scroll-proportion="0.3">
+          <folding />
         </state>
       </provider>
     </entry>

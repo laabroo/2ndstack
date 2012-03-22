@@ -1,0 +1,36 @@
+.hero-unit {
+    background-attachment:initial;
+    background-clip:initial;
+    background-color:#151515;
+    background-image:url('../img/bgHeroUnit.png');
+    background-origin:initial;
+    background-position:0 0;
+    background-repeat:repeat no-repeat;
+    border-bottom-color:white;
+    border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+    margin-bottom:0;
+    margin-left:0;
+    margin-right:0;
+    margin-top:56px;
+    padding-bottom:0;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+}
+
+.hero-unit h1
+{
+    color: #ffffff;
+    font-size: 30px;
+    padding: 25px
+}
+
+.tombol
+{
+    margin-top: 10px;
+}
