@@ -38,7 +38,7 @@
 
 
                                     <li>
-                                        <a href="" target="_top">About</a>
+                                        <a href="<?php echo base_url(); ?>index.php/pages/cabout" target="_top">About</a>
                                     </li>
                                     <li>
                                         <a href="" target="_blank">Documentation</a>

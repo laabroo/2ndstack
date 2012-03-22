@@ -14,13 +14,11 @@
     </div>
     <div class="span4">
         <h2>Why Opa?</h2>
-        <ul class="media-grid">
-            <li>
+
                 <a href="/why_opa.xmlt">
                     <img class="img-content" src="<?php echo base_url(); ?>resource/img/slide/bootstrap-mdo-sfmoma-01.jpg" alt="Apps"/>
                 </a>
-            </li>
-        </ul>
+
         <p>
             Opa Web development platform is well-suited for building distributed Web applications and services as well as games!
             <br/>

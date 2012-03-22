@@ -21,44 +21,7 @@
     <favorites_list name="2ndstack" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="vfooter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="39" selection-start="983" selection-end="991" vertical-scroll-proportion="-15.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/css/header.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="17" selection-start="834" selection-end="834" vertical-scroll-proportion="0.91818184">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vheader.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="70" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.20833333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -73,9 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/config/autoload.php" />
-        <option value="$PROJECT_DIR$/application/config/config.php" />
-        <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/resource/js/jstyle.js" />
         <option value="$PROJECT_DIR$/application/controllers/cmain.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vheroUnit.php" />
@@ -85,10 +45,13 @@
         <option value="$PROJECT_DIR$/application/views/frontend/slide/vslide.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vcontent.php" />
         <option value="$PROJECT_DIR$/resource/css/content.css" />
-        <option value="$PROJECT_DIR$/application/views/frontend/listContent/vlist.php" />
-        <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
         <option value="$PROJECT_DIR$/application/views/frontend/element/vfooter.php" />
         <option value="$PROJECT_DIR$/resource/css/footer.css" />
+        <option value="$PROJECT_DIR$/application/views/frontend/listContent/vlist.php" />
+        <option value="$PROJECT_DIR$/application/views/frontend/pages/vabout.php" />
+        <option value="$PROJECT_DIR$/application/controllers/frontend/pages/cabout.php" />
+        <option value="$PROJECT_DIR$/application/views/frontend/element/vheader.php" />
+        <option value="$PROJECT_DIR$/application/controllers/pages/cabout.php" />
       </list>
     </option>
   </component>
@@ -335,7 +298,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="element" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2ndstack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -420,13 +427,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="720" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -493,27 +500,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="279" selection-end="279" vertical-scroll-proportion="0.24545455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/heroUnit.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="14" selection-start="714" selection-end="714" vertical-scroll-proportion="0.6454545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="130" selection-end="130" vertical-scroll-proportion="0.21818182">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/js/jstyle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
@@ -528,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vcontent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="62" selection-start="991" selection-end="991" vertical-scroll-proportion="-10.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/frontend/slide/vslide.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="107" selection-start="157" selection-end="228" vertical-scroll-proportion="0.083798885">
@@ -545,13 +524,6 @@
     <entry file="file://$PROJECT_DIR$/resource/css/content.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="18" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/listContent/vlist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="112" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-15.68">
           <folding />
         </state>
       </provider>
@@ -578,13 +550,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="70" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.20833333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vfooter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="39" selection-start="983" selection-end="991" vertical-scroll-proportion="-15.625">
@@ -594,7 +559,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="17" selection-start="834" selection-end="834" vertical-scroll-proportion="0.91818184">
+        <state line="61" column="17" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/listContent/vlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="796" selection-end="796" vertical-scroll-proportion="0.23391813">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cmain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="404" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/pages/cabout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="38" selection-start="168" selection-end="168" vertical-scroll-proportion="0.19090909">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/pages/vabout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="6" selection-start="936" selection-end="936" vertical-scroll-proportion="0.47486034">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vheader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="84" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.42775667">
+          <folding>
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1332442200000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/element/vcontent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="62" selection-start="0" selection-end="1001" vertical-scroll-proportion="0.46783626">
           <folding />
         </state>
       </provider>
