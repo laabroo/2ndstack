@@ -1,5 +1,8 @@
 <script type="text/javascript">
     $(document).ready(function(){
+        $('.list-header li:eq(1)').css({
+            "background-color":"#303030"
+        });
         $('#banner').html('<h2>Documentation</h2>');
     });
 </script>

@@ -1,6 +1,10 @@
 <script type="text/javascript">
     $(document).ready(function(){
+        $('.list-header li:eq(0)').css({
+            "background-color":"#303030"
+        });
         $('#banner').html('<h2>About</h2>');
+
     });
 </script>
 <div class="container content">
